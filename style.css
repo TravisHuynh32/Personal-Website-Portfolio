@@ -1,0 +1,56 @@
+.bgimage {
+    height:100vh;
+    background: url('images/heroImage.jpg');
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 6rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.imageAboutPage {
+    width: 100%;
+}
+.navbarScroll.navbarDark {
+    background-color: rgb(186, 206, 175);
+}
+.social-icons {
+    font-size: 26px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover, .fa-twitch:hover {
+    color: #2e8be2;
+}
+.fab {
+    color: #9b9999;
+}
+#footer {
+    background-color: #000000;
+    text-align: end;
+}
+#about, #Education, #portfolio {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+#contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+.Education {
+    background-color: #eeeaea;
+}
+.Contact {
+    background-color: #d4d4d4;
+}
