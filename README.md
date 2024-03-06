@@ -14,7 +14,6 @@ This project is a personal website portfolio aimed at showcasing your skills, pr
 - CSS
 - JavaScript
 - Bootstrap or other CSS frameworks for styling
-- Optional: Backend technologies if you include dynamic features like contact forms
 
 ## Installation
 1. Clone the repository:
@@ -36,7 +35,7 @@ This project is a personal website portfolio aimed at showcasing your skills, pr
    - Contact the creator via the provided contact information or form.
 
 ## Credits
-Travis Huynh (Creator)
+Travis Huynh
 
 [Visit the website](https://travishuynhwebsite.netlify.app/)
 
