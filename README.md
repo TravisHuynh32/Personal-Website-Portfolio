@@ -20,11 +20,6 @@ This project is a personal website portfolio aimed at showcasing your skills, pr
     ```bash
     git clone https://github.com/DuhBoss32/Personal-Website-Portfolio.git
     ```
-2. Customize the content:
-    - Update the HTML and CSS files with your own information, projects, and styling preferences.
-    - Replace placeholder images and text with your own content.
-3. Deploy the website:
-    - Host the website on a platform of your choice (e.g., GitHub Pages, Netlify, Vercel).
 
 ## Usage
 1. Navigate to the deployed website.
